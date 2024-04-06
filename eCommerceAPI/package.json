@@ -1,0 +1,16 @@
+{
+  "name": "ecommerceapi",
+  "version": "1.0.0",
+  "description": "An ecommerce API to mangae product inventory.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepesh Bahuguna",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.2.4"
+  }
+}
